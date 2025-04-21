@@ -69,6 +69,7 @@ outputs:
         - platformdirs
         - pydantic
         - rich
+        - stamina
         - {{ pin_subpackage('tiled-base', exact=True) }}
     test:
       requires:
