@@ -118,6 +118,7 @@ outputs:
         - python-dateutil
         - python-jose
         - python-multipart
+        - s3fs
         - sqlalchemy
         - starlette
         - toolz
